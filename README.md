@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software composer, AI enthusiast,
 
 - 🌱 Currently learning: Artificial Intelligence
 - 💡 Interests: Artificial Intelligence, Web Development, Open Source, and Community Building.
-- 🛠️ AI & Tools: ChatGPT, Gemini, CLaude, Grok, Perplexity, DeepSeek, Qwen, Mistral, Kimi, Copilot
+- 🛠️ AI & Tools: ChatGPT, Gemini, Claude, Grok, Perplexity, DeepSeek, Qwen, Mistral, Kimi, Copilot
 - 🌍 Based in: Kenya
 - 📝 I enjoy sharing knowledge and collaborating with others.
 
