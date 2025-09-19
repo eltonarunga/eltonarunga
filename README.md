@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate software composer, AI enthusiast,
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: AI, Machine Learning, and innovative software architectures.
+- 🌱 Currently learning: Artificial Intelligence
 - 💡 Interests: Artificial Intelligence, Web Development, Open Source, and Community Building.
-- 🛠️ Languages & Tools: Python, JavaScript, React, Node.js, Docker, and more.
+- 🛠️ AI & Tools: ChatGPT, Gemini, CLaude, Grok, Perplexity, DeepSeek, Qwen, Mistral, Kimi, Copilot
 - 🌍 Based in: Kenya
 - 📝 I enjoy sharing knowledge and collaborating with others.
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software composer, AI enthusiast,
 ## 📂 Featured Projects
 
 - [**Software-Compositions**](https://github.com/eltonarunga/Software-Compositions)  
-  *A collection of software design patterns, best practices, and reusable components.*
+  *A collection of vibe-coded projects.*
 
 ---
 
