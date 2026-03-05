@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elton Arunga!
+# <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" alt="wave"> Hi, I'm Elton Arunga!
 
 Welcome to my GitHub profile! I'm a passionate software composer, AI enthusiast, and lifelong learner. I love building impactful applications and exploring how technology can solve real-world problems.
 
@@ -32,9 +32,8 @@ Welcome to my GitHub profile! I'm a passionate software composer, AI enthusiast,
 - 🌐 [LinkedIn](https://www.linkedin.com/in/eltonarunga/)
 - 🐦 [Twitter/X](https://twitter.com/eltonarunga)
 
-
 Feel free to check out my repositories, open issues, or reach out for collaboration!
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
