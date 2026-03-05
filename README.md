@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" alt="wave"> Hi, I'm Elton Arunga!
+#Hi, I'm Elton Arunga!
 
 Welcome to my GitHub profile! I'm a passionate software composer, AI enthusiast, and lifelong learner. I love building impactful applications and exploring how technology can solve real-world problems.
 
