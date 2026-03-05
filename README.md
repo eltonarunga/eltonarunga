@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Elton Arunga!
 
-**Software Composer | AI Enthusiast | Full-Stack Developer | Open Source Contributor**
+**Software Composer | AI Enthusiast**
 
-Welcome to my GitHub profile! I'm a passionate developer building impactful applications and exploring how technology can solve real-world problems. I'm particularly excited about AI, web development, and community-driven projects.
+Welcome to my GitHub profile! I'm a passionate AI Enthusiast, prototyping impactful applications and exploring how technology can solve real-world problems. I'm particularly excited about AI and community-driven projects.
 
 ---
 
 ## 🚀 About Me
 
 - 🌍 **Based in:** Kenya
-- 🎯 **Current Focus:** Artificial Intelligence & Web Development
+- 🎯 **Current Focus:** Artificial Intelligence
 - 💡 **Passion:** Building scalable solutions, learning cutting-edge technologies, and contributing to open source
 - 🤝 **Philosophy:** Great code is collaborative, clean, and community-driven
 - 📚 **Always Learning:** New frameworks, AI models, and best practices
@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer building impactful appl
 ---
 
 ## 💻 Tech Stack
-
-**Languages:** JavaScript, Python, HTML, CSS
-
-**Frontend:** React, Vue.js, Tailwind CSS
-
-**Backend:** Node.js, Express
 
 **AI & Tools:** ChatGPT, Gemini, Claude, Grok, Perplexity, DeepSeek, Qwen, Mistral, Kimi, Copilot
 
@@ -41,10 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer building impactful appl
 
 ## 📊 GitHub Activity
 
-![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonarunga&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonarunga&layout=compact&theme=radical)
-
+\
 ---
 
 ## 🎓 What I'm Currently Doing
